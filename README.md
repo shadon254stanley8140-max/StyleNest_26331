@@ -4,4 +4,4 @@
 <img width="720" height="1560" alt="image" src="https://github.com/user-attachments/assets/732ce8ce-b9d8-4413-9164-688edf63afee" />
 <img width="720" height="1560" alt="image" src="https://github.com/user-attachments/assets/b754eb9d-e09b-4df6-89df-76138761e3e0" />
 <img width="720" height="1560" alt="image" src="https://github.com/user-attachments/assets/e1afa788-c828-4afa-bb1a-b02af91026ce" />
-![Uploading image.png…]()
+[stylenest_technical_documentation.pdf](https://github.com/user-attachments/files/29844753/stylenest_technical_documentation.pdf)

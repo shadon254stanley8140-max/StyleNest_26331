@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Stylenest26331" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_black</item>
+        <item name="colorPrimaryVariant">@color/brand_black</item>
+        <item name="colorOnPrimary">@color/brand_white</item>
+        <item name="colorSecondary">@color/brand_gold</item>
+        <item name="android:statusBarColor">@color/brand_black</item>
+    </style>
+</resources>
